@@ -1,0 +1,60 @@
+{
+  "calculator_page_ac_button": {
+    "xpath": "//*[@id=\"root\"]/div/div[2]/div[2]/div[1]/div/div/div/div[2]/div[1]"
+  },
+  "calculator_page_plus_minus_button": {
+    "xpath": "//*[@id=\"root\"]/div/div[2]/div[2]/div[1]/div/div/div/div[2]/div[2]"
+  },
+  "calculator_page_divide_button": {
+    "xpath": "//*[@id=\"root\"]/div/div[2]/div[2]/div[1]/div/div/div/div[2]/div[4]"
+  },
+  "calculator_page_multiply_button": {
+    "xpath": "//*[@id=\"root\"]/div/div[2]/div[2]/div[1]/div/div/div/div[2]/div[8]"
+  },
+  "calculator_page_subtract_button": {
+    "xpath": "//*[@id=\"root\"]/div/div[2]/div[2]/div[1]/div/div/div/div[2]/div[12]"
+  },
+  "calculator_page_add_button": {
+    "xpath": "//*[@id=\"root\"]/div/div[2]/div[2]/div[1]/div/div/div/div[2]/div[16]"
+  },
+  "calculator_page_one_button": {
+    "xpath": "//*[@id=\"root\"]/div/div[2]/div[2]/div[1]/div/div/div/div[2]/div[13]"
+  },
+  "calculator_page_two_button": {
+    "xpath": "//*[@id=\"root\"]/div/div[2]/div[2]/div[1]/div/div/div/div[2]/div[14]"
+  },
+  "calculator_page_three_button": {
+    "xpath": "//*[@id=\"root\"]/div/div[2]/div[2]/div[1]/div/div/div/div[2]/div[15]"
+  },
+  "calculator_page_four_button": {
+    "xpath": "//*[@id=\"root\"]/div/div[2]/div[2]/div[1]/div/div/div/div[2]/div[9]"
+  },
+  "calculator_page_five_button": {
+    "xpath": "//*[@id=\"root\"]/div/div[2]/div[2]/div[1]/div/div/div/div[2]/div[10]"
+  },
+  "calculator_page_six_button": {
+    "xpath": "//*[@id=\"root\"]/div/div[2]/div[2]/div[1]/div/div/div/div[2]/div[11]"
+  },
+  "calculator_page_seven_button": {
+    "xpath": "//*[@id=\"root\"]/div/div[2]/div[2]/div[1]/div/div/div/div[2]/div[5]"
+  },
+  "calculator_page_eight_button": {
+    "xpath": "//*[@id=\"root\"]/div/div[2]/div[2]/div[1]/div/div/div/div[2]/div[6]"
+  },
+  "calculator_page_nine_button": {
+    "xpath": "//*[@id=\"root\"]/div/div[2]/div[2]/div[1]/div/div/div/div[2]/div[7]"
+  },
+  "calculator_page_zero_button": {
+    "xpath": "//*[@id=\"root\"]/div/div[2]/div[2]/div[1]/div/div/div/div[2]/div[17]"
+  },
+  "calculator_page_comma_button": {
+    "xpath": "//*[@id=\"root\"]/div/div[2]/div[2]/div[1]/div/div/div/div[2]/div[19]"
+  },
+  "calculator_page_result_button": {
+    "xpath": "//*[@id=\"root\"]/div/div[2]/div[2]/div[1]/div/div/div/div[2]/div[20]"
+  },
+  "calculator_page_result_text": {
+    "xpath": "//*[@id=\"root\"]/div/div[2]/div[2]/div[1]/div/div/div/div[1]/div/span"
+  }
+
+}

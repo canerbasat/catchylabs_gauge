@@ -1,0 +1,5 @@
+{
+  "home_page_open_calculator_button": {
+    "xpath": "//div[contains(text(), 'Open Calculator')]"
+  }
+}

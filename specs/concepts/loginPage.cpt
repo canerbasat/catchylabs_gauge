@@ -1,0 +1,5 @@
+# Login Olma İslemi Gerceklestirilir
+* Send "caner.basat@testinium.com" text to the "login_page_username_input" element
+* Send "caner4785_zZe" text to the "login_page_password_input" element
+* Click the "login_page_login_button" element
+* Display the "home_page_open_calculator_button" element
